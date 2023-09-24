@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <a href="[https://twitter.com/intent/follow?screen_name=vcwild](https://twitter.com/eviluas)">
+    <a href="https://twitter.com/intent/follow?screen_name=vcwild(https://twitter.com/eviluas)">
         <img src="https://img.shields.io/twitter/follow/eviluas?style=social&logo=twitter"
             alt="follow on Twitter">
   
